@@ -4,7 +4,7 @@ A small python script that extracts Backglass &amp; FullDMD images from .directb
 Right now it only works for VPX, but in the future, I may give it the option to work with FX2, FX3, and Future Pinball. Feel free to fork.
 
 ## Instructions 
-1. Install "Pinup Popper Baller Installer.exe"
+1. Install "Pinup Popper Baller Installer"
 2. Make sure your directory structure looks something like this.
 ```
 vPinball
