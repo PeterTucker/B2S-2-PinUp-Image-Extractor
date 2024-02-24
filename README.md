@@ -19,7 +19,7 @@ vPinball
         YOUR 2nd TABLE.directb2s
 ```
 3. Put ```b2s_2_PinUp_img_extractor.py``` in top level ```vPinball``` folder.
-4. Once all your ```.directb2s``` files are in your corresponding table folder run ```b2s_2_PinUp_img_extractor.py```
+4. Once all your ```.directb2s``` files are in your corresponding table folders run ```b2s_2_PinUp_img_extractor.py```
 ```
 python b2s_2_PinUp_img_extractor.py
 ```
