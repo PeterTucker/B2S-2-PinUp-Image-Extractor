@@ -26,7 +26,7 @@ python b2s_2_PinUp_img_extractor.py
 
 Once completed this will be where the files are extracted to:
 
-'Backglass' images should be saved in 'PinUPSystem/POPMedia/Visual Pinball X/Backglass/'
+```Backglass``` images should be saved in ```PinUPSystem/POPMedia/Visual Pinball X/Backglass/```
 
-'DMD' images should be saved in 'PinUPSystem/POPMedia/Visual Pinball X/Menu/'
+```DMD``` images should be saved in ```PinUPSystem/POPMedia/Visual Pinball X/Menu/```
 
