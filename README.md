@@ -1,12 +1,11 @@
 # B2S-2-PinUp-Image-Extractor
 A small python script that extracts Backglass &amp; FullDMD images from .directb2s files, and saves them to PinUp Popper's media folder.
 
-### Todo:
-- Implement pillow(image library) for boosting brightness on images
-- Add light/dark options for user as second step.
-- Add to README.md instructions on how to install Pillow
+### Features:
+- Option to overwrite previously extracted images
+- The default images in a .directb2s file are dark, the script gives you the option to lighten them using the Python Pillow Image Manipulation library.
 
-Right now it only works for VPX, but in the future, I may give it the option to work with FX2, FX3, and Future Pinball. Feel free to fork.
+Right now it only works for VPX, but in the future, I may give it the option to work with FX, FX3, and Future Pinball. Feel free to fork.
 
 ## Instructions 
 1. Install "Pinup Popper Baller Installer"
@@ -26,6 +25,7 @@ vPinball
 3. Put ```b2s_2_PinUp_img_extractor.py``` in top level ```vPinball``` folder.
 4. Once all your ```.directb2s``` files are in your corresponding table folders run ```b2s_2_PinUp_img_extractor.py```
 ```
+pip install Pillow
 python b2s_2_PinUp_img_extractor.py
 ```
 
